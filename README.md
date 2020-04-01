@@ -14,3 +14,5 @@ Accuracy achieved :- 72.12 % in LSTM Network and 75.74 % in GRU Network.
 
 
 Result :- The GRU Network performs better than the LSTM Network significantly in just 1 Epoch. If we increase the number of epochs, we can see drastic changes in both accuracies.
+
+Colab Link :- https://colab.research.google.com/drive/1xapSjxrKbUEDlVCJR-NSJfSxqsu_Xupr
