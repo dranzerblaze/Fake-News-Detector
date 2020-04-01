@@ -6,7 +6,7 @@ Dataset Link :- https://www.kaggle.com/c/fake-news/data
 
 For vectorizing words & sentences, GloVe pre-trained vectors were used.
 
-Batch Size :- 300\n
+Batch Size :- 300
 Epochs : 1
 Accuracy acheived :- 72.12 % in LSTM Network and 75.74 % in GRU Network.
 
