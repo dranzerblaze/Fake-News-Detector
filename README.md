@@ -10,7 +10,7 @@ Batch Size :- 300
 
 Epochs : 1
 
-Accuracy acheived :- 72.12 % in LSTM Network and 75.74 % in GRU Network.
+Accuracy achieved :- 72.12 % in LSTM Network and 75.74 % in GRU Network.
 
 
 Result :- The GRU Network performs better than the LSTM Network significantly in just 1 Epoch. If we increase the number of epochs, we can see drastic changes in both accuracies.
